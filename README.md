@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0gem-exe
+- 👀 I’m interested in generative art
+- 🌱 I’m currently learning p5.js
+- 💞️ I’m looking to collaborate on generative art
+- 📫 you can reach me at g.daniele00@gmail.com
